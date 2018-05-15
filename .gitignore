@@ -1,0 +1,5 @@
+# Dependency directories
+.vscode/
+node_modules/
+npm-debug.log
+mongo-express.bat
