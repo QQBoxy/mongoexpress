@@ -13,6 +13,6 @@
   "author": "QQBoxy",
   "license": "ISC",
   "dependencies": {
-    "mongo-express": "^0.47.0"
+    "mongo-express": "^0.52.2"
   }
 }
